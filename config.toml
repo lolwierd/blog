@@ -1,0 +1,44 @@
+baseURL = 'https://blog.ayaan.ga'
+languageCode = 'en-us'
+title = 'Wierd Reveries'
+theme = 'archie'
+
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=9 # articles per page
+
+[params]
+	mode="toggle" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "Personal Notes on Life and what I feel."
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/LOLwierd/"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/dreiwLOL/"
+
+# Main menu Items
+
+# [[menu.main]]
+# name = "Home"
+# url = "/"
+# weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 1
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 2
