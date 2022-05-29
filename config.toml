@@ -1,4 +1,4 @@
-baseURL = 'https://lolwierd.ml/'
+baseURL = "https://blog-5br.pages.dev/"
 languageCode = 'en-us'
 title = 'Wierd Reveries'
 theme = 'archie'
