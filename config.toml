@@ -1,4 +1,4 @@
-baseURL = 'https://blog.ayaan.ga'
+baseURL = 'https://blog-two-kappa-11.vercel.app/'
 languageCode = 'en-us'
 title = 'Wierd Reveries'
 theme = 'archie'
