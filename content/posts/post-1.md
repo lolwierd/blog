@@ -15,7 +15,7 @@ Also my writing is getting worse and worse day by day. I hate that and this is a
 
 Apart from technical computer sciency stuff, I will try to lay down my raw thoughts on some other subjects as well. 
 
-Also I plan to maintain sort of a personal journal of things I am going through and feeling @ personal.lolwierd.ml (ofc no one can access it but me).
+Also I plan to maintain sort of a personal journal of things I am going through and feeling @ https://personal.lolwierd.ml (ofc no one can access it but me).
 
 I also feel like this would be the best way to showcase my skills and what I learned.
  
