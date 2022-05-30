@@ -2,6 +2,7 @@
 title: "How I made these Blogs"
 date: 2022-05-29T23:51:58+05:30
 description: "Deployment is hard. Sometimes. Also, fuck DNS"
+tldr: "Fuck Cloudflare. Thank God for Cloudflare."
 tags: []
 ---
 
@@ -12,6 +13,7 @@ Coding the actual website was absolutely the easiest part. I did not even have t
 
 # The Hard Part
 Now I had broadly __2__ options.
+
 1. Deploy using services like Vercel, Netlify, etc.
 2. Use my own server.
 
