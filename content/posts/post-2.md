@@ -1,6 +1,7 @@
 ---
 title: "How I made these Blogs"
 date: 2022-05-29T23:51:58+05:30
+description: "Deployment is hard. Sometimes. Also, fuck DNS"
 tags: []
 ---
 
