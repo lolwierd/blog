@@ -2,6 +2,5 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description: ""
-tldr: "Day "
-tags: ["journal"]
+tldr: ""
 ---
