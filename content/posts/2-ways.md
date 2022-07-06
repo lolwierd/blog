@@ -1,10 +1,9 @@
 ---
-title: "Two ways of living."
+title: "Two ways to live"
 date: 2022-07-06
 description: ""
 tags: ["pheelosophy"]
-tldr: ""
-draft: "true"
+draft: "false"
 ---
 
 
