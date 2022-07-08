@@ -76,3 +76,13 @@ The difference between them (personally), is I will not force myself to do it. I
 That is the best I can do. That is how I think, (at least as of this moment), I will minimise regrets.
 
 Also [Chainsaw Man](https://mangasee123.com/manga/Chainsaw-Man-Color) is epic. Go give it a read.
+
+---
+
+EDIT: 2022-07-08
+
+Yo fuck that weak shit. Was down as fuck from the last 2 days, read One Piece, now I'm Back. Fuck that weak shit about 'trying my best'. I am going all in babyy lets goooo!!
+
+Its not going to do me any good if I overthink such a small little thing. It really does not matter in the grand scheme of things. Living in the present, fuck trying to please my future self.
+
+Chainsaw Man really did a number on my self-confidence huh. Still a 10. Will probably not reread it again. Not my favourite story, but certainly one of the best stories of all time.
