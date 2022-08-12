@@ -2,47 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wierd Reveries</title>
-    <link>https://blog.ayaan.ga/</link>
+    <link>https://lolwierd.ml/</link>
     <description>Recent content on Wierd Reveries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.ayaan.ga/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lolwierd.ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Telegram Bot for  GitHub Actions</title>
-      <link>https://blog.ayaan.ga/posts/tg-gh/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <title>Two ways to live</title>
+      <link>https://lolwierd.ml/posts/2-ways/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ayaan.ga/posts/tg-gh/</guid>
-      <description>Telegram Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed. It is free to use and extensively hackable. It also has a good bot support system. The API is also easy to implement and has many wrappers for building bots with the API.
-GitHub Actions GitHub Actions is a CI/CD runtime for your GitHub repository. You can run almost anything from scripts to docker containers.</description>
+      <guid>https://lolwierd.ml/posts/2-ways/</guid>
+      <description>As far as I understand, there are 2 ways to live.
+With ambition and without ambition. With dreams, like every other shonen protagonist and like Denji.
+I am halfway through Chainsaw Man, and it has moved me to an extent where I am forced to rethink how I view my life as a whole.
+This is not a post analyzing or breaking apart Chainsaw Man. I would hate that.
+This is rather an exploration of how I am living my life right now, and how this beautiful piece of literature forced me to rethink that.</description>
     </item>
     
     <item>
-      <title>Primer: When You Have Too Much to Do</title>
-      <link>https://blog.ayaan.ga/posts/post-1/</link>
-      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
+      <title>One of the Most Important Posts I will write</title>
+      <link>https://lolwierd.ml/posts/one-of-the-most-important-posts/</link>
+      <pubDate>Wed, 08 Jun 2022 23:36:21 +0530</pubDate>
       
-      <guid>https://blog.ayaan.ga/posts/post-1/</guid>
-      <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
-It all keeps piling up, and it can feel overwhelming.
-How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
+      <guid>https://lolwierd.ml/posts/one-of-the-most-important-posts/</guid>
+      <description>Don&amp;rsquo;t feel the need to win. Don&amp;rsquo;t feel the need to be perfect.
+Whenever you feel stuck, or overwhelmed, go back to the basics.
+ If you have a sense of entitlement to the result, then lack of it will beat your spirits and you&amp;rsquo;ll obsess more over it than your work And even worse trap is doing nothing because results aren&amp;rsquo;t guaranteed. ~Nikhil
+  The thing is Results are never guaranteed There&amp;rsquo;s a lot of things that aren&amp;rsquo;t under my control And these factors will limit how much I can achieve, how much I can get Instead being sad about it I should focus on doing my work because then only, I will be able to do the best I can possibly do.</description>
+    </item>
+    
+    <item>
+      <title>How I made these Blogs</title>
+      <link>https://lolwierd.ml/posts/post-2/</link>
+      <pubDate>Sun, 29 May 2022 23:51:58 +0530</pubDate>
+      
+      <guid>https://lolwierd.ml/posts/post-2/</guid>
+      <description>I wanted to have my own blog for quite some time. Originally my plan was to build it in ruby using Jekyll or Ruby On Rails. But I gave up on Jekyll due to me not finding good enough themes. I was NOT going to build it from scratch. I do not yet possess the needed patience and design skills to pull it off (read as, I was not serious enough).</description>
+    </item>
+    
+    <item>
+      <title>Blogs!!!</title>
+      <link>https://lolwierd.ml/posts/post-1/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lolwierd.ml/posts/post-1/</guid>
+      <description>I will be documenting whatever I fuck around with, whatever I learn here.
+Documenting. I understand the importance of documenting. If I don&amp;rsquo;t write down, document my thoughts, I will lose pretty and nuanced things to time. Also my writing is getting worse and worse day by day. I hate that and this is an attempt to change it.
+Apart from technical computer sciency stuff, I will try to lay down my raw thoughts on some other subjects as well.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://blog.ayaan.ga/archives/</link>
+      <link>https://lolwierd.ml/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ayaan.ga/archives/</guid>
+      <guid>https://lolwierd.ml/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://blog.ayaan.ga/about/</link>
+      <link>https://lolwierd.ml/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ayaan.ga/about/</guid>
+      <guid>https://lolwierd.ml/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>

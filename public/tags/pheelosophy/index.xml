@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Wierd Reveries</title>
-    <link>https://lolwierd.ml/posts/</link>
-    <description>Recent content in Posts on Wierd Reveries</description>
+    <title>pheelosophy on Wierd Reveries</title>
+    <link>https://lolwierd.ml/tags/pheelosophy/</link>
+    <description>Recent content in pheelosophy on Wierd Reveries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lolwierd.ml/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lolwierd.ml/tags/pheelosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Two ways to live</title>
       <link>https://lolwierd.ml/posts/2-ways/</link>
@@ -30,26 +30,6 @@ This is rather an exploration of how I am living my life right now, and how this
 Whenever you feel stuck, or overwhelmed, go back to the basics.
  If you have a sense of entitlement to the result, then lack of it will beat your spirits and you&amp;rsquo;ll obsess more over it than your work And even worse trap is doing nothing because results aren&amp;rsquo;t guaranteed. ~Nikhil
   The thing is Results are never guaranteed There&amp;rsquo;s a lot of things that aren&amp;rsquo;t under my control And these factors will limit how much I can achieve, how much I can get Instead being sad about it I should focus on doing my work because then only, I will be able to do the best I can possibly do.</description>
-    </item>
-    
-    <item>
-      <title>How I made these Blogs</title>
-      <link>https://lolwierd.ml/posts/post-2/</link>
-      <pubDate>Sun, 29 May 2022 23:51:58 +0530</pubDate>
-      
-      <guid>https://lolwierd.ml/posts/post-2/</guid>
-      <description>I wanted to have my own blog for quite some time. Originally my plan was to build it in ruby using Jekyll or Ruby On Rails. But I gave up on Jekyll due to me not finding good enough themes. I was NOT going to build it from scratch. I do not yet possess the needed patience and design skills to pull it off (read as, I was not serious enough).</description>
-    </item>
-    
-    <item>
-      <title>Blogs!!!</title>
-      <link>https://lolwierd.ml/posts/post-1/</link>
-      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://lolwierd.ml/posts/post-1/</guid>
-      <description>I will be documenting whatever I fuck around with, whatever I learn here.
-Documenting. I understand the importance of documenting. If I don&amp;rsquo;t write down, document my thoughts, I will lose pretty and nuanced things to time. Also my writing is getting worse and worse day by day. I hate that and this is an attempt to change it.
-Apart from technical computer sciency stuff, I will try to lay down my raw thoughts on some other subjects as well.</description>
     </item>
     
   </channel>

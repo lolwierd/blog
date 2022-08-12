@@ -2,33 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.ayaan.ga/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <loc>https://lolwierd.ml/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.ayaan.ga/posts/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <loc>https://lolwierd.ml/tags/pheelosophy/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.ayaan.ga/posts/tg-gh/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <loc>https://lolwierd.ml/posts/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.ayaan.ga/tags/primer/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+    <loc>https://lolwierd.ml/tags/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.ayaan.ga/posts/post-1/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+    <loc>https://lolwierd.ml/posts/2-ways/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.ayaan.ga/tags/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+    <loc>https://lolwierd.ml/posts/one-of-the-most-important-posts/</loc>
+    <lastmod>2022-06-08T23:36:21+05:30</lastmod>
   </url><url>
-    <loc>https://blog.ayaan.ga/tags/todo/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+    <loc>https://lolwierd.ml/posts/post-2/</loc>
+    <lastmod>2022-05-29T23:51:58+05:30</lastmod>
   </url><url>
-    <loc>https://blog.ayaan.ga/archives/</loc>
+    <loc>https://lolwierd.ml/posts/post-1/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lolwierd.ml/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.ayaan.ga/about/</loc>
+    <loc>https://lolwierd.ml/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.ayaan.ga/categories/</loc>
+    <loc>https://lolwierd.ml/categories/</loc>
   </url>
 </urlset>
