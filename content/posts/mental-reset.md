@@ -1,8 +1,8 @@
 ---
 title: "Mental Reset"
-date: "2022-09-12T08:48:00"
+date: "2022-09-12T08:58:00"
 description: "things i did, things im bout to do."
-tags: ["tech", "pheelosophy", ]
+tags: ["tech", ]
 draft: "false"
 ---
 
@@ -24,7 +24,7 @@ Then, I came across Notion. I had used it in the past, but have never thought of
 
 
 
-So I used the [notionapi](https://github.com/jomei/notionapi), whose lack of documentation I actually appreciated. It got me comfortable reading go types and go source code thanks to that. So, I hacked together a simple script, which queried a notion database and picked the posts which were updated, converted those notion posts (basically blocks) to their corresponding markdown counterpart, saved them on disk, git add ed, and git commit ed those changes (if any). Cloudflare CI/CD did the rest. ez.
+So I used the [notionapi](https://github.com/jomei/notionapi), whose lack of documentation I actually appreciated. It got me comfortable reading go types and go source code. So, I hacked together a simple script, which queried a notion database and picked the posts which were updated, converted those notion posts (basically blocks) to their corresponding markdown counterpart, saved them on disk, git add ed, and git commit ed those changes (if any). Cloudflare CI/CD did the rest. ez.
 
 
 
@@ -70,7 +70,7 @@ Next, I set out to set up my own mail server!!
 
 # The orange site told me this is very hard.
 
-I wrote a scuffed af Twitter [thread](https://twitter.com/LOLwierd_/status/1566688228169875456?s=20&t=yrZbybcfF0Ihc0IKwkcdZw) as I went about building this.
+> I wrote a scuffed af Twitter [thread](https://twitter.com/LOLwierd_/status/1566688228169875456?s=20&t=yrZbybcfF0Ihc0IKwkcdZw) as I went about building this.
 
 
 
