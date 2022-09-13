@@ -1,7 +1,7 @@
 ---
 title: "Two ways to live"
 date: "2022-07-06"
-description: ""
+description: "I read Chainsaw Man."
 tags: ["pheelosophy", ]
 draft: "false"
 ---
